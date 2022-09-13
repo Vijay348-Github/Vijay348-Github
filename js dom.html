@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <script>
+        function validForm() {
+            let x = document.forms["form1"]["fname"].value;
+            if (x == "") {
+                alert("Name must be filled");
+                return false;
+            }
+        }
+    </script>
+
+</head>
+
+<body>
+    <p id="ger">Hello world</p>
+    <p id="red"></p>
+    <p>Bye hyderabad</p>
+    <script>
+
+        const fun = document.getElementById("ger");
+        document.getElementById("red").innerHTML = fun.innerHTML;
+
+        const den = document.getElementsByTagName("p");
+        document.getElementById("red").innerHTML = den[2].innerHTML;
+
+    </script>
+
+
+    <form id="form1 " onsubmit="return validForm()" method="post" action="action.php">
+        <input type="text" name="fname" >
+        <input type="submit" value="submit">
+    </form>
+
+
+</body>
+
+</html>
