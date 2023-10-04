@@ -1,0 +1,51 @@
+### Hi there 👋
+
+<!--
+**Vijay348-Github/Vijay348-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+# Hi there! 👋
+
+I'm **Vijay**, a Full Stack Java Developer passionate about building web applications and solving complex problems ans actively looking for a position where I can showcase my skills .
+I'm currently working on Microservices.
+
+## About Me
+
+I'm a 2022 graduate JNTUA College of Engineering . I have a strong foundation in Java programming and enjoy working on both front-end and back-end development projects. My passion 
+for problem-solving drives me to explore new technologies and tackle challenging coding tasks.
+
+## Skills
+
+- **Java**
+- **Spring Boot**
+- **JavaScript**
+- **React**
+- **SQL**
+- **Git**
+- **Problem Solving**-**DSA**
+- **MONGODB**
+- **RESTFul API Development**
+- **BUilding MICROSERVICES**
+- **Hibernate**
+
+## Projects
+
+- Employee Management System: A full-stack website built with Spring Boot and React js.
+- Form Validation and Registration System: A Java Project using Servlets, JSP, JDBC, MYSQL.
+
+## Contact
+
+- GitHub: [My GitHub Profile](https://github.com/Vijay348-Github)
+- LinkedIn: [My LinkedIn Profile](http://www.linkedin.com/in/kishtammagari-vijaya-kumar-67b7a7179)
+- Email: vijayramesh4321@gmail.com
