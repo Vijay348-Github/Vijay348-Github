@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm **Vijay**, a Full Stack Java Developer passionate about building web applications and solving complex problems ans actively looking for a position where I can showcase my skills .
+I'm **Vijay**, a Full Stack Java Developer enthusiast, passionate about building web applications and solving complex problems and actively looking for a position where I can showcase my skills .
 I'm currently working on Microservices.
 
 ## About Me
 
-I'm a 2022 graduate JNTUA College of Engineering . I have a strong foundation in Java programming and enjoy working on both front-end and back-end development projects. My passion 
+I'm a 2022 B.Tech graduate JNTUA College of Engineering . I have a strong foundation in Java programming and enjoy working on both front-end and back-end development projects. My passion 
 for problem-solving drives me to explore new technologies and tackle challenging coding tasks.
 
 ## Skills
