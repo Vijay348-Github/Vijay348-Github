@@ -36,7 +36,7 @@ for problem-solving drives me to explore new technologies and tackle challenging
 - **Problem Solving**-**DSA**
 - **MONGODB**
 - **RESTFul API Development**
-- **BUilding MICROSERVICES**
+- **Building MICROSERVICES**
 - **Hibernate**
 
 ## Projects
