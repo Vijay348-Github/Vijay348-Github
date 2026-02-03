@@ -41,11 +41,9 @@ for problem-solving drives me to explore new technologies and tackle challenging
 
 ## Projects
 
-- Employee Management System: A full-stack website built with Spring Boot and React js.
-- Form Validation and Registration System: A Java Project using Servlets, JSP, JDBC, MYSQL.
+- Production-ready MERN stack project with real-time chat functionality built using Socket.io
 
 ## Contact
 
-- GitHub: [My GitHub Profile](https://github.com/Vijay348-Github)
 - LinkedIn: [My LinkedIn Profile](http://www.linkedin.com/in/kishtammagari-vijaya-kumar-67b7a7179)
 - Email: vijayramesh4321@gmail.com
